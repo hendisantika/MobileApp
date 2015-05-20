@@ -1,6 +1,8 @@
 # MobileApp
 MobileApp - JSON - AJAX
 ===========================
+Hendi Santika - hendisantika@gmail.com 
+
 Notes :
  1. To run this App. 
     Run your browser --> http://localhost:8080/MobileApp/
@@ -10,4 +12,4 @@ Notes :
    - MySQL
    - AJAX
    - JSON
-   - Jetty Appliacation Server 9.2.10.v20150310
+   - Jetty Application Server 9.2.10.v20150310
