@@ -8,7 +8,7 @@
 	<name>MobileApp Maven Webapp</name>
 
 	<properties>
-		<mysql.connector>8.0.16</mysql.connector>
+		<mysql.connector>8.0.28</mysql.connector>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<spring.version>5.3.18</spring.version>
 		<spring.data.version>1.11.23.RELEASE</spring.data.version>
