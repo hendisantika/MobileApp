@@ -132,7 +132,7 @@
 				<groupId>org.eclipse.jetty</groupId>
 				<!-- <artifactId>jetty-server</artifactId> -->
 				<artifactId>jetty-maven-plugin</artifactId>
-				<version>9.2.10.v20150310</version>
+				<version>11.0.24</version>
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 				<webApp>
