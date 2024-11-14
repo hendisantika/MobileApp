@@ -10,7 +10,7 @@
 	<properties>
 		<mysql.connector>8.0.30</mysql.connector>
 		<hibernate.version>5.6.15.Final</hibernate.version>
-		<spring.version>6.1.14</spring.version>
+		<spring.version>6.2.0</spring.version>
 		<spring.data.version>3.3.5</spring.data.version>
 		<jackson.version>1.9.12</jackson.version>
 	</properties>
